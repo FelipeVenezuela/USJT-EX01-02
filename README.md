@@ -1,4 +1,4 @@
-# PSC-EX01-02
+# USJT - EX01-02
 
 ### Ex01
 1. [Exercício]()
