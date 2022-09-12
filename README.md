@@ -11,7 +11,7 @@
 
 ### Ex02
 1. [Exercício]()
-2. [Exercício]()
+2. [Exercício](https://github.com/FelipeVenezuela/EX02-B)
 3. [Exercício]()
 4. [Exercício]()
 5. [Exercício]()
